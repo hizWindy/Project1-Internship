@@ -1,0 +1,11 @@
+
+
+# ? Virtual Environment
+venv/
+
+# ? Environmental Variables
+.env
+
+
+# ? Database Systems' schema
+schema-internship.vue.erd
